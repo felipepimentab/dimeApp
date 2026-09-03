@@ -49,11 +49,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>zero</key>
-			<string>dias</string>
+			<string>0 dias</string>
 			<key>one</key>
-			<string>dia</string>
+			<string>1 dia</string>
 			<key>other</key>
-			<string>dias</string>
+			<string>%lld dias</string>
 		</dict>
 	</dict>
 	<key>%lld weeks</key>
@@ -67,11 +67,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>zero</key>
-			<string>semanas</string>
+			<string>0 semanas</string>
 			<key>one</key>
-			<string>semana</string>
+			<string>1 semana</string>
 			<key>other</key>
-			<string>semanas</string>
+			<string>%lld semanas</string>
 		</dict>
 	</dict>
 	<key>%lld months</key>
@@ -85,11 +85,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>zero</key>
-			<string>meses</string>
+			<string>0 meses</string>
 			<key>one</key>
-			<string>mês</string>
+			<string>1 mês</string>
 			<key>other</key>
-			<string>meses</string>
+			<string>%lld meses</string>
 		</dict>
 	</dict>
 	<key>%lld weeks ago</key>
